@@ -14,7 +14,7 @@ $${\color{red}!!! \space Intentional \space runtime \space error \space when \sp
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-repo/runtime-error-demo.git
+git clone https://github.com/KanisphonKonhirungit/runtime-error-demo.git
 cd runtime-error-demo
 ```
 
